@@ -247,7 +247,7 @@ def problem3b(m, point1):
 
     window1.render()
     window1.close_on_mouse_click()
-    return sum
+    return sum 
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
